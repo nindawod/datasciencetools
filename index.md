@@ -1,4 +1,6 @@
 ## Learning github today
 _interesting to learn_
 __this is so fun and interesting__
-We are many attending
+
+We are many attending the workshop
+*whats __this
